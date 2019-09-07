@@ -1,6 +1,7 @@
 package com.zhy.tools;
 
 import java.security.MessageDigest;
+
 import sun.misc.BASE64Encoder;
 public class Md5Code {
 
