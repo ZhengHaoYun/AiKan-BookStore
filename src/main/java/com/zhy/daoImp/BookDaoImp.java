@@ -9,7 +9,6 @@ import java.util.List;
 
 import com.zhy.beans.Book;
 import com.zhy.dao.BookDao;
-import com.zhy.factory.DaoFactory;
 import com.zhy.tools.DBUtil;
 
 public class BookDaoImp implements BookDao {
